@@ -25,4 +25,4 @@ jobs:
         with:
           folder: dist/browser
           branch: prod  
-          token: ${{ secrets.GB_TOKEN_R }}
+          token: ${{ secrets.GH_TOKEN_R }}
